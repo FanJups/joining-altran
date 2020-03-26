@@ -10,3 +10,11 @@ https://www.google.com/search?q=all+possible+permutations+of+a+string+in+java&oq
 
 
 https://www.geeksforgeeks.org/print-all-permutations-of-a-string-in-java/
+
+# initialize context provider spring
+
+https://www.google.com/search?q=initialize+context+provider+spring&oq=initialize+context+provider+spring&aqs=chrome..69i57j33l2.18096j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/22885339/how-to-initialize-application-context-in-spring-framework-4
+
+
